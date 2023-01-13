@@ -8,18 +8,16 @@ BRQ
 
 
 FRQ
-<<<<<<< Updated upstream
-
-
-=======
 test
 new
-с новым годом!
->>>>>>> Stashed changes
+my request
+ВК - 21:29 
+Для конфликтов)
+new 02
+
 
 
 NFRQ
 с новым счастьем!
 version 456
 Со старым новым годом!
-___
