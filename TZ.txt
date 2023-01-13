@@ -12,7 +12,11 @@ test
 new
 my request
 ВК - 21:29 
+<<<<<<< HEAD
 %%%%%%%
+=======
+Для конфликтов)
+>>>>>>> f784cebbf4fdf2e9f23c26fdad08100f54a2dc88
 
 NFRQ
 
