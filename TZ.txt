@@ -8,11 +8,17 @@ BRQ
 
 
 FRQ
+<<<<<<< Updated upstream
 
 
+=======
+test
+new
+с новым годом!
+>>>>>>> Stashed changes
 
 
 NFRQ
-
+с новым счастьем!
 
 ___
